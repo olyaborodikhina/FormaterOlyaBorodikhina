@@ -18,6 +18,8 @@ public class Borodikhina {
         List<String> lines = new ArrayList<String>();
 
 
+
+
         while ((line = reader.readLine()) != null) {
             line = line.replaceAll("\t", "");
             line = line.replaceAll(" ", "");

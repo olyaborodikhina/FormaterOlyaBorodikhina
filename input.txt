@@ -1,0 +1,39 @@
+while     (inputStream.hasNext())
+
+
+{char sym
+
+
+bol = input
+
+
+Strea
+
+
+
+m.read
+
+();
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

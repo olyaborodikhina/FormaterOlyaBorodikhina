@@ -1,0 +1,3 @@
+while (inputStream.hasNext () ) {
+    charsymbol=inputStream.read () ;
+}
